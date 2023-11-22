@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CP_Basic",
+    "\\CP_Basic\\CP_Basic",
+    "\\CP_Basic\\x64"
   ],
+  "SelectedNode": "\\CP_Basic",
   "PreviewInSolutionExplorer": false
 }
